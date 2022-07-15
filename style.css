@@ -1,0 +1,45 @@
+div#d1
+{
+    border: 2px solid grey;
+    height: 80%;
+    width: 46%;
+    position: absolute;
+    left: 670px;
+    overflow: auto;
+    box-shadow: 3px 3px 3px #D3D3D3;
+}
+    
+#d2
+{
+    border: 2px solid grey;
+    height: 80%;
+    width: 46%;
+    position: absolute;
+    top: 102px;
+    left: 17px;
+    overflow: auto;
+    box-shadow: 3px 3px 3px #D3D3D3;
+}
+    
+#i1
+{
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 2px 2px 4px grey;
+}
+    
+#i2
+{
+    position: absolute;
+    left: 920px;
+    top: 45px;
+}
+    
+#i3
+{
+    position: absolute;
+    top: 45px;
+    left:270px;
+ }
+    
