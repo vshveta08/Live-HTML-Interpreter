@@ -4,6 +4,7 @@ Live Frontend Compiler provides a interface to the user to write the HTML code &
 
 Interface of the Project ->
 
-![Screenshot (1323)](https://user-images.githubusercontent.com/109027067/210692430-a4cbdab9-4f99-41b1-8436-f81a971bb6cf.png)
+![Screenshot (304)](https://github.com/vshveta08/Live-HTML-Interpreter/assets/109027067/6ebe92f2-5707-49ed-9a67-df4b8adf80ee)
 
-![Screenshot (1322)](https://user-images.githubusercontent.com/109027067/210692658-ad2d8b58-53a2-4903-a9fa-1143aa717f22.png)
+![Screenshot (305)](https://github.com/vshveta08/Live-HTML-Interpreter/assets/109027067/2407f610-7ba4-46fb-8db2-8adbb337085d)
+
