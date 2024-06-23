@@ -1,6 +1,6 @@
-# Live-HTML-Interpreter
-Live HTML Interpreter made using HTML, CSS &amp; JavaScript. 
-Live HTML Interpreter provides a interface to the user to write the HTML code &amp; gives the output of the code on the same page in real time.
+# Live-Frontend-Compiler
+Live Frontend Compiler made using HTML, CSS &amp; JavaScript. 
+Live Frontend Compiler provides a interface to the user to write the HTML code &amp; gives the output of the code on the same page in real time.
 
 Interface of the Project ->
 
