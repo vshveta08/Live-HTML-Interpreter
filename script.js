@@ -4,5 +4,5 @@ function fun()
     b = document.getElementById("d2");
         
     a.innerHTML = b.value;
-    
+    a.eval(b);
 }
